@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .main{
-	with:200px;
+	width:200px;
 	background-color:purple;
 	border-left:10px solid green;
 	padding:10px;
